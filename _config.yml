@@ -1,4 +1,4 @@
-remote_theme : mmistakes/minimal-mistakes
+remote_theme : chesterhow/tale
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
