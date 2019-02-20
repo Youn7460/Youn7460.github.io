@@ -6,6 +6,8 @@ paginate:     5
 plugins:
   - jekyll-paginate
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Site settings
 title:          Tale
