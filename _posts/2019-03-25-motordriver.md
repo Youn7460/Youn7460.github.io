@@ -14,7 +14,7 @@ title : "모터 드라이버"
 <hr>
 
 # 2. 핀 맵
-<img src="../assets/motordriver_PCB_front.png" width="50%" align="left"><img src="../assets/motordriver_PCB_back.png" width="50%">
+<img src="../assets/motordriver_PCB_front.PNG" width="50%" align="left"><img src="../assets/motordriver_PCB_back.PNG" width="50%">
 - GND : 전원의 (-)핀
 - 방향 : 모터의 회전방향을 결정하는 Digital핀. 
 - 제어 : 모터의 속도를 결정하는 PWM핀.  0값은 정지를 의미한다.
